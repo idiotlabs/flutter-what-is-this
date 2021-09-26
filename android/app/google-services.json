@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "702657788398",
+    "project_id": "what-is-this-bb33c",
+    "storage_bucket": "what-is-this-bb33c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702657788398:android:65a18d9333ad5d79bdf6ff",
+        "android_client_info": {
+          "package_name": "idiotlabs.whatisthis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702657788398-kkpdllkocogmja19rf3n0jidn5mrcnbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9e5smVs7038EJO801PQCqu2hdKQerWwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702657788398-kkpdllkocogmja19rf3n0jidn5mrcnbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "702657788398-ssobdec3v4e738jiaqnfdrfd65e6825l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "idiotlabs.whatisthis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
